@@ -1,4 +1,4 @@
 import wikipedia
 
 result = wikipedia.page("Louisville Kentucky")
-print(result)
+print(result.summary)
